@@ -2,6 +2,10 @@ package ol_bens;
 
 public class MenuCoffee extends AbstractMenu {
 
+    /*
+    New class with
+     */
+
 
     @Override
     public double getCost() {

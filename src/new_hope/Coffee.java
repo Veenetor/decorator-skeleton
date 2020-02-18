@@ -11,7 +11,7 @@ public class Coffee extends MenuDecorator {
     }
 
     public double getCost () {
-        return decoratedMenu.getCost() + 0.50;
+        return super.getCost() + 0.50;
     }
 
 }

@@ -3,9 +3,8 @@ package ol_bens;
 public class Menu extends AbstractMenu {
 
     /*
-     this forces me to override the methods
-    with the information I need for the menu!
-    */
+     Easy! I will just return the cost and menu item!
+      */
 
     @Override
     public double getCost() {
