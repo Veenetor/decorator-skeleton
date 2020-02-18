@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59d65efb-1c8e-43ca-9bdd-c713e9a560cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/decorator-skeleton/ol_bens/Soda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/new_hope/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_hope/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/new_hope/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_hope/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ol_bens/AbstractMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ol_bens/AbstractMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ol_bens/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ol_bens/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ol_bens/MenuCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ol_bens/MenuCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ol_bens/MenuCoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ol_bens/MenuCoke.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,30 +16,33 @@
     <session id="1355082574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JAVA/new_hope" value="1" />
-          <entry key="java" value="11" />
+          <entry key="JAVA/ol_bens" value="1" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
-          <entry key="UML" value="1" />
+          <entry key="JAVA" value="12" />
+          <entry key="UML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="506" />
+          <entry key="java" value="549" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="506" />
+          <entry key="JAVA" value="549" />
         </counts>
       </usages-collector>
     </session>
@@ -53,7 +51,7 @@
     <favorites_list name="decorator-skeleton" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ol_bens/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,27 +72,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ol_bens/MenuCoke.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -103,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/ol_bens/MenuSoda.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="14" lean-forward="true" selection-end-line="14" />
+              <caret line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -112,16 +89,25 @@
         <entry file="file://$PROJECT_DIR$/src/new_hope/MenuDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/new_hope/Menu.java">
+        <entry file="file://$PROJECT_DIR$/src/ol_bens/AbstractMenu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/new_hope/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -138,15 +124,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/new_hope/Coffee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="165">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#96#97#0" expanded="true" />
                 <element signature="e#126#127#0" expanded="true" />
                 <element signature="e#161#162#0" expanded="true" />
                 <element signature="e#215#216#0" expanded="true" />
                 <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -155,87 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/new_hope/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/new_hope">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>new_hope</OriginalElement>
-              <nodes>
-                <node x="313.0" y="0.0">new_hope.Menu</node>
-                <node x="135.0" y="79.0">new_hope.MenuDecorator</node>
-                <node x="298.0" y="79.0">new_hope.BaseMenu</node>
-                <node x="323.0" y="158.0">new_hope.Coke</node>
-                <node x="115.0" y="158.0">new_hope.Soda</node>
-                <node x="214.0" y="158.0">new_hope.Coffee</node>
-                <node x="430.0" y="79.0">new_hope.OldMenu</node>
-                <node x="0.0" y="158.0">new_hope.Dessert</node>
-                <node x="0.0" y="232.0">new_hope.Main</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="new_hope.OldMenu" target="new_hope.Menu">
-                  <point x="0.0" y="-14.5" />
-                  <point x="481.5" y="54.0" />
-                  <point x="381.3333333333333" y="54.0" />
-                  <point x="27.333333333333314" y="14.5" />
-                </edge>
-                <edge source="new_hope.Soda" target="new_hope.MenuDecorator">
-                  <point x="0.0" y="-14.5" />
-                  <point x="154.5" y="138.0" />
-                  <point x="188.625" y="138.0" />
-                  <point x="-17.875" y="14.5" />
-                </edge>
-                <edge source="new_hope.BaseMenu" target="new_hope.Menu">
-                  <point x="0.0" y="-14.5" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="new_hope.MenuDecorator" target="new_hope.Menu">
-                  <point x="0.0" y="-14.5" />
-                  <point x="206.5" y="54.0" />
-                  <point x="326.6666666666667" y="54.0" />
-                  <point x="-27.333333333333314" y="14.5" />
-                </edge>
-                <edge source="new_hope.Coke" target="new_hope.MenuDecorator">
-                  <point x="0.0" y="-14.5" />
-                  <point x="362.5" y="128.0" />
-                  <point x="260.125" y="128.0" />
-                  <point x="53.625" y="14.5" />
-                </edge>
-                <edge source="new_hope.Dessert" target="new_hope.MenuDecorator">
-                  <point x="0.0" y="-14.5" />
-                  <point x="47.5" y="128.0" />
-                  <point x="152.875" y="128.0" />
-                  <point x="-53.625" y="14.5" />
-                </edge>
-                <edge source="new_hope.Coffee" target="new_hope.MenuDecorator">
-                  <point x="0.0" y="-14.5" />
-                  <point x="258.5" y="138.0" />
-                  <point x="224.375" y="138.0" />
-                  <point x="17.875" y="14.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="266.5" y="220.5" />
-              <SelectedNodes>
-                <node>new_hope.Menu</node>
-                <node>new_hope.MenuDecorator</node>
-                <node>new_hope.BaseMenu</node>
-                <node>new_hope.Coke</node>
-                <node>new_hope.Soda</node>
-                <node>new_hope.Coffee</node>
-                <node>new_hope.OldMenu</node>
-                <node>new_hope.Dessert</node>
-                <node>new_hope.Main</node>
-              </SelectedNodes>
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+            <state relative-caret-position="357">
+              <caret line="24" column="42" lean-forward="true" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -254,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/ol_bens/MenuCoke.java" />
         <option value="$PROJECT_DIR$/src/new_hope/Coffee.java" />
         <option value="$PROJECT_DIR$/src/new_hope/Main.java" />
+        <option value="$PROJECT_DIR$/src/new_hope/Menu.java" />
       </list>
     </option>
   </component>
@@ -263,7 +171,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="963" />
@@ -273,6 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -302,14 +212,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582047825420" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582050455065" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -359,12 +267,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582040481520</updated>
-      <workItem from="1582040482739" duration="3504000" />
+      <workItem from="1582040482739" duration="3774000" />
+      <workItem from="1582049773698" duration="749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3504000" />
+    <option name="totallyTimeSpent" value="4523000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,41 +285,51 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="963" extended-state="1" />
+    <frame x="0" y="23" width="1920" height="963" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.50057405" side_tool="true" weight="0.24973376" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49942595" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49942595" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" sideWeight="0.50057405" side_tool="true" weight="0.24973376" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295063" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.122847304" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3295063" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50057405" side_tool="true" weight="0.24973376" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295063" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295063" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.122847304" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295063" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295063" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -420,13 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ol_bens/AbstractMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -443,59 +355,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ol_bens/MenuSoda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" lean-forward="true" selection-end-line="14" />
+    <entry file="uml://JAVA/ol_bens">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ol_bens</OriginalElement>
+          <nodes>
+            <node x="" y="">ol_bens.MenuCoffee</node>
+            <node x="" y="">ol_bens.Menu</node>
+            <node x="" y="">ol_bens.MenuCokeDessert</node>
+            <node x="" y="">ol_bens.MenuCoffeeDessert</node>
+            <node x="" y="">ol_bens.MenuSodaDessert</node>
+            <node x="" y="">ol_bens.MenuCoke</node>
+            <node x="" y="">ol_bens.MenuCokeCoffeeDessert</node>
+            <node x="" y="">ol_bens.MenuDessert</node>
+            <node x="" y="">ol_bens.MenuSodaCoffee</node>
+            <node x="" y="">ol_bens.MenuSoda</node>
+            <node x="" y="">ol_bens.MenuCokeCoffeee</node>
+            <node x="" y="">ol_bens.MenuSodaCoffeeDessert</node>
+            <node x="" y="">ol_bens.AbstractMenu</node>
+            <node x="" y="">ol_bens.Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7020428500249128" x="993.0" y="111.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_hope/MenuDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_hope/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_hope/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_hope/BaseMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ol_bens/MenuCoffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
+    <entry file="uml://JAVA/new_hope">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>new_hope</OriginalElement>
+          <nodes>
+            <node x="391.5" y="0.0">new_hope.Menu</node>
+            <node x="228.5" y="123.0">new_hope.MenuDecorator</node>
+            <node x="546.5" y="123.0">new_hope.BaseMenu</node>
+            <node x="0.0" y="246.0">new_hope.Coke</node>
+            <node x="310.0" y="246.0">new_hope.Soda</node>
+            <node x="155.0" y="246.0">new_hope.Coffee</node>
+            <node x="391.5" y="123.0">new_hope.OldMenu</node>
+            <node x="465.0" y="246.0">new_hope.Dessert</node>
+            <node x="0.0" y="364.0">new_hope.Main</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="new_hope.OldMenu" target="new_hope.Menu">
+              <point x="0.0" y="-36.5" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="new_hope.Soda" target="new_hope.MenuDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="377.5" y="226.0" />
+              <point x="317.875" y="226.0" />
+              <point x="17.875" y="36.5" />
+            </edge>
+            <edge source="new_hope.BaseMenu" target="new_hope.Menu">
+              <point x="0.0" y="-36.5" />
+              <point x="614.0" y="98.0" />
+              <point x="504.0" y="98.0" />
+              <point x="45.0" y="36.5" />
+            </edge>
+            <edge source="new_hope.MenuDecorator" target="new_hope.Menu">
+              <point x="0.0" y="-36.5" />
+              <point x="300.0" y="98.0" />
+              <point x="414.0" y="98.0" />
+              <point x="-45.0" y="36.5" />
+            </edge>
+            <edge source="new_hope.Coke" target="new_hope.MenuDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="67.5" y="216.0" />
+              <point x="246.375" y="216.0" />
+              <point x="-53.625" y="36.5" />
+            </edge>
+            <edge source="new_hope.Dessert" target="new_hope.MenuDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="532.5" y="216.0" />
+              <point x="353.625" y="216.0" />
+              <point x="53.625" y="36.5" />
+            </edge>
+            <edge source="new_hope.Coffee" target="new_hope.MenuDecorator">
+              <point x="0.0" y="-36.5" />
+              <point x="222.5" y="226.0" />
+              <point x="282.125" y="226.0" />
+              <point x="-17.875" y="36.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="267.0" y="221.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -512,87 +473,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_hope/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/ol_bens/MenuSoda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="150">
+          <caret line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/new_hope">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>new_hope</OriginalElement>
-          <nodes>
-            <node x="313.0" y="0.0">new_hope.Menu</node>
-            <node x="135.0" y="79.0">new_hope.MenuDecorator</node>
-            <node x="298.0" y="79.0">new_hope.BaseMenu</node>
-            <node x="323.0" y="158.0">new_hope.Coke</node>
-            <node x="115.0" y="158.0">new_hope.Soda</node>
-            <node x="214.0" y="158.0">new_hope.Coffee</node>
-            <node x="430.0" y="79.0">new_hope.OldMenu</node>
-            <node x="0.0" y="158.0">new_hope.Dessert</node>
-            <node x="0.0" y="232.0">new_hope.Main</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="new_hope.OldMenu" target="new_hope.Menu">
-              <point x="0.0" y="-14.5" />
-              <point x="481.5" y="54.0" />
-              <point x="381.3333333333333" y="54.0" />
-              <point x="27.333333333333314" y="14.5" />
-            </edge>
-            <edge source="new_hope.Soda" target="new_hope.MenuDecorator">
-              <point x="0.0" y="-14.5" />
-              <point x="154.5" y="138.0" />
-              <point x="188.625" y="138.0" />
-              <point x="-17.875" y="14.5" />
-            </edge>
-            <edge source="new_hope.BaseMenu" target="new_hope.Menu">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="new_hope.MenuDecorator" target="new_hope.Menu">
-              <point x="0.0" y="-14.5" />
-              <point x="206.5" y="54.0" />
-              <point x="326.6666666666667" y="54.0" />
-              <point x="-27.333333333333314" y="14.5" />
-            </edge>
-            <edge source="new_hope.Coke" target="new_hope.MenuDecorator">
-              <point x="0.0" y="-14.5" />
-              <point x="362.5" y="128.0" />
-              <point x="260.125" y="128.0" />
-              <point x="53.625" y="14.5" />
-            </edge>
-            <edge source="new_hope.Dessert" target="new_hope.MenuDecorator">
-              <point x="0.0" y="-14.5" />
-              <point x="47.5" y="128.0" />
-              <point x="152.875" y="128.0" />
-              <point x="-53.625" y="14.5" />
-            </edge>
-            <edge source="new_hope.Coffee" target="new_hope.MenuDecorator">
-              <point x="0.0" y="-14.5" />
-              <point x="258.5" y="138.0" />
-              <point x="224.375" y="138.0" />
-              <point x="17.875" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="266.5" y="220.5" />
-          <SelectedNodes>
-            <node>new_hope.Menu</node>
-            <node>new_hope.MenuDecorator</node>
-            <node>new_hope.BaseMenu</node>
-            <node>new_hope.Coke</node>
-            <node>new_hope.Soda</node>
-            <node>new_hope.Coffee</node>
-            <node>new_hope.OldMenu</node>
-            <node>new_hope.Dessert</node>
-            <node>new_hope.Main</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/new_hope/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_hope/MenuDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ol_bens/AbstractMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ol_bens/MenuCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_hope/BaseMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_hope/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="42" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/new_hope/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
